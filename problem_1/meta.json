@@ -1,0 +1,17 @@
+{
+    "input": [
+      {
+        "name": "trained model path ",
+        "data_type": "model",
+        "file_name": ""
+      }
+    ],
+    "output": [
+      {
+        "data_type": "dict",
+        "file_name": "",
+        "save": false
+      }
+    ]
+  }
+

@@ -1,0 +1,10 @@
+data/
+*.pth
+*.pt
+*/.DS_store
+runs/
+checkpoint/
+*.pyc
+problem_1/__data/__answer/test.json
+test.json
+
